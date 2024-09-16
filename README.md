@@ -12,7 +12,6 @@ Este projeto consiste em uma landing page simples desenvolvida com Node.js e Exp
 ## Tecnologias Utilizadas
 
 - **Node.js**: Ambiente de execução JavaScript do lado do servidor.
-- **Express.js**: Framework web para Node.js que facilita a criação de servidores e rotas.
 - **HTML**: Linguagem de marcação para estruturar o conteúdo da página.
 - **CSS**: Linguagem de estilo para definir a aparência da página.
 - **JavaScript**: Linguagem de programação para adicionar interatividade e comportamento dinâmico à página.
